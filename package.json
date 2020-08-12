@@ -1,0 +1,27 @@
+{
+  "name": "kijiji-graphs-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akassab/Kijiji-Graphs-Web-App.git"
+  },
+  "author": "Ayman Kassab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akassab/Kijiji-Graphs-Web-App/issues"
+  },
+  "homepage": "https://github.com/akassab/Kijiji-Graphs-Web-App#readme",
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.28",
+    "prettier": "^2.0.5"
+  }
+}
