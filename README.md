@@ -10,7 +10,7 @@ How to use React and Node.js + GraphQL Express and MongoDB together (MERNG stack
 ## Functions
 - Register / login
 - Search for ads using search query and category/location
-- on node hover: Displays the product's title, price, and type (Offer or Wanted).
+- On node hover: Displays the product's title, price, and type (Offer or Wanted).
 - Click node to go to kijiji ad page
 - Like add
 - Unlike add
@@ -21,9 +21,6 @@ How to use React and Node.js + GraphQL Express and MongoDB together (MERNG stack
 Graph:
 - X axis: Date Ascending.
 - Y axis: Price.
-
-- NEW: Node on Click: Add displays at the bottom of the page, remove option and link-opening there as well!
-
 ## Languages used
 - HTML
 - little CSS but mostly Bootstrap
